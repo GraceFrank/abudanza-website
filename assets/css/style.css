@@ -119,13 +119,20 @@ h1, h2, h3, h4, h5, h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #3fbbc0;
+  background: #064564;
   color: #fff;
   height: 40px;
   font-size: 16px;
   font-weight: 600;
   z-index: 996;
   transition: all 0.5s;
+}
+
+#topbar a {
+  color: white; 
+}
+#topbar a:hover {
+  color: grey;
 }
 
 #topbar.topbar-scrolled {
