@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #3fbbc0;
+  color: #064564;
   text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #3fbbc0;
+  border: 6px solid #064564;
   border-top-color: #ecf8f9;
   border-radius: 50%;
   width: 60px;
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #3fbbc0;
+  background: #064564;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -1184,7 +1184,7 @@ color: #064564;
 }
 
 .doctors .member .social a:hover {
-  color: #3fbbc0;
+  color: #064564;
 }
 
 .doctors .member .social i {
@@ -1269,6 +1269,10 @@ color: #064564;
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+.pricing h2{
+  color: #064564
+}
+
 .pricing .box {
   padding: 20px;
   background: #fff;
@@ -1291,7 +1295,7 @@ color: #064564;
 
 .pricing h4 {
   font-size: 36px;
-  color: #3fbbc0;
+  color: #064564;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1323,7 +1327,7 @@ color: #064564;
 }
 
 .pricing ul i {
-  color: #3fbbc0;
+  color: #064564;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1341,7 +1345,7 @@ color: #064564;
 }
 
 .pricing .btn-buy {
-  background: #3fbbc0;
+  background: #FF6501;
   display: inline-block;
   padding: 8px 35px 10px 35px;
   border-radius: 4px;
@@ -1355,12 +1359,12 @@ color: #064564;
 }
 
 .pricing .btn-buy:hover {
-  background: #65c9cd;
+  background: #064564 ;
 }
 
 .pricing .featured h3 {
   color: #fff;
-  background: #3fbbc0;
+  background: #064564;
 }
 
 .pricing .advanced {
@@ -1372,13 +1376,16 @@ color: #064564;
   z-index: 1;
   font-size: 14px;
   padding: 1px 0 3px 0;
-  background: #3fbbc0;
+  background: #064564;
   color: #fff;
 }
 
 /*--------------------------------------------------------------
 # Frequently Asked Questioins
 --------------------------------------------------------------*/
+.faq h2{
+  color: #064564
+}
 .faq {
   padding: 60px 0;
 }
@@ -1397,13 +1404,12 @@ color: #064564;
 .faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #3fbbc0;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #32969a;
+  color: #FF6501;
   transition: 0.3s;
 }
 
@@ -1428,7 +1434,7 @@ color: #064564;
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #3fbbc0;
+  color: #FF6501;
 }
 
 .faq .faq-list .collapsed .icon-show {
@@ -1444,6 +1450,9 @@ color: #064564;
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact h2{
+  color: #064564
+}
 .contact .info-box {
   color: #444444;
   text-align: center;
@@ -1453,7 +1462,7 @@ color: #064564;
 
 .contact .info-box i {
   font-size: 32px;
-  color: #3fbbc0;
+  color: #064564;
   border-radius: 50%;
   padding: 8px;
   border: 2px dotted #c5ebec;
@@ -1527,7 +1536,7 @@ color: #064564;
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #3fbbc0;
+  border-color: #064564;
 }
 
 .contact .php-email-form input {
@@ -1539,7 +1548,7 @@ color: #064564;
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #3fbbc0;
+  background: #FF6501;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1548,7 +1557,7 @@ color: #064564;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #65c9cd;
+  background: #064564;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1606,7 +1615,7 @@ color: #064564;
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #3fbbc0;
+  background: #064564;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1642,7 +1651,7 @@ color: #064564;
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #3fbbc0;
+  color: #064564;
   font-size: 18px;
   line-height: 1;
 }
@@ -1665,7 +1674,7 @@ color: #064564;
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #3fbbc0;
+  color: #064564;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1692,7 +1701,7 @@ color: #064564;
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #3fbbc0;
+  background: #064564;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
