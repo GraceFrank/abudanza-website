@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-width: 100px;
+  max-width: 120px;
 }
 
 /**
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .appointment-btn {
   margin-left: 25px;
-  background: #36ABE0;
+  background: #FF6501;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
@@ -254,7 +254,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #36ABE0;
+  color: #FF6501;
 }
 
 .navbar .dropdown ul {
@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #3fbbc0;
+  color: #FF6501;
 }
 
 .navbar .dropdown:hover > ul {
@@ -382,7 +382,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #3fbbc0;
+  color: #FF6501;
 }
 
 .navbar-mobile .dropdown ul {
@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #3fbbc0;
+  color: #FF6501;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -451,7 +451,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 50px;
-  border-top: 4px solid #3fbbc0;
+  border-top: 4px solid #36ABE0;
 }
 
 @media (max-width: 1200px) {
@@ -505,7 +505,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   width: auto;
   height: auto;
-  background: rgba(63, 187, 192, 0.8);
+  background: rgba(6, 69, 100, 0.8);
   border-radius: 50px;
   transition: 0.3s;
   color: rgba(255, 255, 255, 0.5);
@@ -517,7 +517,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-control-next-icon:hover, #hero .carousel-control-prev-icon:hover {
-  background: #3fbbc0;
+  background: #064564;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -535,7 +535,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #3fbbc0;
+  background: #FF6501;
 }
 
 #hero .btn-get-started {
@@ -549,11 +549,11 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   line-height: 1;
   color: #fff;
-  background: #3fbbc0;
+  background: #FF6501;
 }
 
 #hero .btn-get-started:hover {
-  background: #65c9cd;
+  background: #064564;
 }
 
 @media (max-width: 992px) {
