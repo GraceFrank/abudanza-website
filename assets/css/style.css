@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-width: 100px;
 }
 
 /**
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 */
 .appointment-btn {
   margin-left: 25px;
-  background: #3fbbc0;
+  background: #36ABE0;
   color: #fff;
   border-radius: 4px;
   padding: 8px 25px;
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .appointment-btn:hover {
-  background: #65c9cd;
+  background: #064564;
   color: #fff;
 }
 
@@ -254,7 +254,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #3fbbc0;
+  color: #36ABE0;
 }
 
 .navbar .dropdown ul {
